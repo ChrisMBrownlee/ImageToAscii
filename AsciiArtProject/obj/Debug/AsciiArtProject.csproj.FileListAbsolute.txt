@@ -1,0 +1,9 @@
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\bin\Debug\AsciiArtProject.exe.config
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\bin\Debug\AsciiArtProject.exe
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\bin\Debug\AsciiArtProject.pdb
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\obj\Debug\AsciiArtProject.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\obj\Debug\AsciiArtProject.Form1.resources
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\obj\Debug\AsciiArtProject.Properties.Resources.resources
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\obj\Debug\AsciiArtProject.csproj.GenerateResource.cache
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\obj\Debug\AsciiArtProject.exe
+C:\Users\MCA\source\repos\AsciiArtProject\AsciiArtProject\obj\Debug\AsciiArtProject.pdb
